@@ -1,3 +1,9 @@
+h1, h2, h3, h4, h5 {
+    font-family: 'Cormorant', serif;
+  }
+p {
+    font-family: 'Karma', sans-serif;
+}
 video {
   left: 50%;
   min-height: 100%;
@@ -26,4 +32,8 @@ video {
 
 .space-evenly { 
   justify-content: space-evenly; 
+}
+.xtra-space {
+    padding-top: 30px;
+    padding-bottom: 60px;
 }
